@@ -9,22 +9,20 @@
 .box {
   display: flex;
   justify-content: center;
-  padding-top: 20px;
 }
 
 .select_user {
-  padding:5px 5px;
+  padding: 5px 5px;
   border-radius: 5px;
   max-width: 500px;
   width: 95%;
-  height: 50px;
+  height: 30px;
   font-size: 20px;
   background-color: rgb(34, 159, 38);
 }
 
 .wrapper {
   display: flex;
-  margin-top: 10px;
   justify-content: space-around;
 
 }
@@ -32,7 +30,7 @@
 .user_container {
   max-width: 500px;
   width: 95%;
-  height: 70vh;
+  height: 80%;
   background-color: rgb(34, 159, 38);
   border-radius: 5px;
   margin-top: 20px;
@@ -70,5 +68,4 @@
 
 .contact_logo {
   width: 70px;
-  
 }
